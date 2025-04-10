@@ -1,16 +1,34 @@
-# snake_game
+# Snake Game in Flutter
 
-A new Flutter project.
+A modern, responsive version of the classic Snake game built using Flutter.
+
+## Features
+
+- **Responsive Design**: Works seamlessly on all screen sizes (phones and tablets).
+- **Dark Mode & Light Mode**: Fully supports both themes with a toggle switch.
+- **Smooth Gameplay**: Snake moves smoothly with swipe gestures or directional buttons.
+- **Game Logic**:
+  - Snake grows when it eats the food.
+  - Game over when the snake hits itself or the wall.
+- **Score Counter**: Tracks and displays the current score.
+- **Restart Button**: Allows the player to restart the game at any time.
+- **Animated Elements**: Smooth transitions for snake movement and food appearance.
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK
+- Dart
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Abdullah-Baghraib/flutter_snake_game.git
+   cd flutter_snake_game
+
+   flutter pub get
+   flutter run
+
