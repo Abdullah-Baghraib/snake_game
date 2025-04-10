@@ -24,11 +24,13 @@ A modern, responsive version of the classic Snake game built using Flutter.
 
 ### Installation
 
-1. Clone the repository:
+Clone the repository:
    ```bash
    git clone https://github.com/Abdullah-Baghraib/flutter_snake_game.git
+
    cd flutter_snake_game
 
    flutter pub get
+
    flutter run
 
