@@ -14,6 +14,9 @@ A modern, responsive version of the classic Snake game built using Flutter.
 - **Restart Button**: Allows the player to restart the game at any time.
 - **Animated Elements**: Smooth transitions for snake movement and food appearance.
 
+## Screenshots
+![image1](https://github.com/user-attachments/assets/e6e0120c-3057-4a9e-a695-174a0a0de90f)
+
 
 ## Getting Started
 
